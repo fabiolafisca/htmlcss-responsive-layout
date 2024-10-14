@@ -3,6 +3,9 @@
 body{
     font-family: 'Courier New', Courier, monospace;
     font-size: 15px;
+    align-items: center;
+    align-items: center;
+    justify-content: center;
 }
 
 h1{ 
@@ -15,19 +18,14 @@ h2{
 
 h3{
     color: black;
+    font-size: 20px;
 }
 
 img{
     width: 38%;
 }
 
-
-
-
-
-
 .container {
     max-width: 1160px;
     margin: 0 auto;
-    first-of-type: 50px; 
 }
