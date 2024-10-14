@@ -1,0 +1,33 @@
+/* Generals */
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+h1{ 
+    color: orange;
+}
+
+h2{
+    color: violet;
+}
+
+h3{
+    color: black;
+}
+
+img{
+    width: 38%;
+}
+
+
+
+
+
+
+.container {
+    max-width: 1160px;
+    margin: 0 auto;
+    first-of-type: 50px; 
+}
